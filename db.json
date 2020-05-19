@@ -1,94 +1,92 @@
-{
-  "commande": [
-    {
-      "idContrat": "000000000",
-      "statut": "AETUC",
-      "libStatut": "En étude commerciale",
-      "montantHT": "200000",
-      "biens": "",
-      "dateDebut": "08/04/2020",
-      "dateFin": "08/04/2024",
-      "nomClient": "MR. AASSILA AHMED"
-    },
-    {
-      "idContrat": "A100045644",
-      "statut": "AETUA",
-      "libStatut": "Financement accordé",
-      "montantHT": "4003500",
-      "biens": "",
-      "dateDebut": "08/04/2020",
-      "dateFin": "08/04/2024",
-      "nomClient": "MR. AASSILA AHMED"
-    },
-    {
-      "idContrat": "A010045644",
-      "statut": "AETUAC",
-      "libStatut": "Affaire en comité",
-      "montantHT": "200560",
-      "biens": "",
-      "dateDebut": "08/04/2020",
-      "dateFin": "08/04/2024",
-      "nomClient": "MR. AASSILA AHMED"
-    },
-    {
-      "idContrat": "A011045644",
-      "statut": "AACC",
-      "libStatut": "Financement accordé",
-      "montantHT": "200000",
-      "biens": "",
-      "dateDebut": "08/04/2020",
-      "dateFin": "08/04/2024",
-      "nomClient": "MR. AASSILA AHMED"
-    },
-    {
-      "idContrat": "A012045644",
-      "statut": "AMELI",
-      "libStatut": "Affaire avec impayé",
-      "montantHT": "200000",
-      "biens": "",
-      "dateDebut": "08/04/2020",
-      "dateFin": "08/04/2024",
-      "nomClient": "MR. AASSILA AHMED"
-    },
-    {
-      "idContrat": "A032045644",
-      "statut": "AMELM",
-      "libStatut": "Affaire mise en loyer",
-      "montantHT": "200000",
-      "biens": "",
-      "dateDebut": "08/04/2020",
-      "dateFin": "08/04/2024",
-      "nomClient": "MR. AASSILA AHMED"
-    },
-    {
-      "idContrat": "A030945644",
-      "statut": "AREF",
-      "libStatut": "Affaire Abandonnée",
-      "montantHT": "200000",
-      "biens": "",
-      "dateDebut": "08/04/2020",
-      "dateFin": "08/04/2024",
-      "nomClient": "MR. AASSILA AHMED"
-    },
-    {
-      "idContrat": "A030945044",
-      "statut": "AREFR",
-      "libStatut": "Financement refusé",
-      "montantHT": "200000",
-      "biens": "",
-      "dateDebut": "08/04/2020",
-      "dateFin": "08/04/2024",
-      "nomClient": "MR. AASSILA AHMED"
-    },
-    {
-      "idContrat": "A103094044",
-      "statut": "AFIN",
-      "libStatut": "Affaire Terminée",
-      "montantHT": "200000",
-      "biens": "",
-      "dateDebut": "08/04/2019",
-      "dateFin": "08/04/2020",
-      "nomClient": "MR. AASSILA AHMED"
-    }
-  ]
-}
+[
+  {
+    "idContrat": "A000045644",
+    "statut": "AETUC",
+    "libStatut": "En étude commerciale",
+    "montantHT": "200000",
+    "biens": "",
+    "dateDebut": "08/04/2020",
+    "dateFin": "08/04/2024",
+    "nomClient": "MR. AASSILA AHMED"
+  },
+  {
+    "idContrat": "A100045644",
+    "statut": "AETUA",
+    "libStatut": "Financement accordé",
+    "montantHT": "4003500",
+    "biens": "",
+    "dateDebut": "08/04/2020",
+    "dateFin": "08/04/2024",
+    "nomClient": "MR. AASSILA AHMED"
+  },
+  {
+    "idContrat": "A010045644",
+    "statut": "AETUAC",
+    "libStatut": "Affaire en comité",
+    "montantHT": "200560",
+    "biens": "",
+    "dateDebut": "08/04/2020",
+    "dateFin": "08/04/2024",
+    "nomClient": "MR. AASSILA AHMED"
+  },
+  {
+    "idContrat": "A011045644",
+    "statut": "AACC",
+    "libStatut": "Financement accordé",
+    "montantHT": "200000",
+    "biens": "",
+    "dateDebut": "08/04/2020",
+    "dateFin": "08/04/2024",
+    "nomClient": "MR. AASSILA AHMED"
+  },
+  {
+    "idContrat": "A012045644",
+    "statut": "AMELI",
+    "libStatut": "Affaire avec impayé",
+    "montantHT": "200000",
+    "biens": "",
+    "dateDebut": "08/04/2020",
+    "dateFin": "08/04/2024",
+    "nomClient": "MR. AASSILA AHMED"
+  },
+  {
+    "idContrat": "A032045644",
+    "statut": "AMELM",
+    "libStatut": "Affaire mise en loyer",
+    "montantHT": "200000",
+    "biens": "",
+    "dateDebut": "08/04/2020",
+    "dateFin": "08/04/2024",
+    "nomClient": "MR. AASSILA AHMED"
+  },
+  {
+    "idContrat": "A030945644",
+    "statut": "AREF",
+    "libStatut": "Affaire Abandonnée",
+    "montantHT": "200000",
+    "biens": "",
+    "dateDebut": "08/04/2020",
+    "dateFin": "08/04/2024",
+    "nomClient": "MR. AASSILA AHMED"
+  },
+  {
+    "idContrat": "A030945044",
+    "statut": "AREFR",
+    "libStatut": "Financement refusé",
+    "montantHT": "200000",
+    "biens": "",
+    "dateDebut": "08/04/2020",
+    "dateFin": "08/04/2024",
+    "nomClient": "MR. AASSILA AHMED"
+  },
+  {
+    "idContrat": "A103094044",
+    "statut": "AFIN",
+    "libStatut": "Affaire Terminée",
+    "montantHT": "200000",
+    "biens": "",
+    "dateDebut": "08/04/2019",
+    "dateFin": "08/04/2020",
+    "nomClient": "MR. AASSILA AHMED"
+  }
+]
