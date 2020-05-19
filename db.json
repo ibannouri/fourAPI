@@ -2,32 +2,35 @@
   "commande": [
     {
       "idContrat": "A000045644",
-      "statut": "AETUC",
-      "libStatut": "En étude commerciale",
+      "statut": "AFIN",
+      "libStatut": "Clôturés",
       "montantHT": "200000",
       "biens": "",
       "dateDebut": "08/04/2020",
       "dateFin": "08/04/2024",
+      "duree":"2 mois",
       "nomClient": "MR. AASSILA AHMED"
     },
     {
-      "idContrat": "A100045644",
-      "statut": "AETUA",
-      "libStatut": "Financement accordé",
+      "idContrat": "A100045645",
+      "statut": "AETUAC",
+      "libStatut": "En cour",
       "montantHT": "4003500",
       "biens": "",
       "dateDebut": "08/04/2020",
       "dateFin": "08/04/2024",
+      "duree":"2 mois",
       "nomClient": "MR. AASSILA AHMED"
     },
     {
-      "idContrat": "A010045644",
-      "statut": "AETUAC",
-      "libStatut": "Affaire en comité",
+      "idContrat": "A010045646",
+      "statut": "AACC",
+      "libStatut": "Disponibles",
       "montantHT": "200560",
       "biens": "",
       "dateDebut": "08/04/2020",
       "dateFin": "08/04/2024",
+      "duree":"2 mois",
       "nomClient": "MR. AASSILA AHMED"
     }
   ]
