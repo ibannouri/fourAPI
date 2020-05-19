@@ -11,7 +11,7 @@
        "duree": "8 mois",
       "nomClient": "MR. AASSILA AHMED"
     },
-       {
+    {
       "idContrat": "000000001",
       "statut": "AACC",
       "libStatut": "Disponibles",
@@ -22,7 +22,7 @@
        "duree": "8 mois",
       "nomClient": "MR. AASSILA AHMED"
     },
-       {
+    {
       "idContrat": "000000002",
       "statut": "AETUAC",
       "libStatut": "En cour",
@@ -32,6 +32,6 @@
       "dateFin": "08/04/2024",
        "duree": "8 mois",
       "nomClient": "MR. AASSILA AHMED"
-    },
+    }
   ]
 }
